@@ -1,0 +1,768 @@
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\netstandard.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.AppContext.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Collections.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ComponentModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Console.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Data.Common.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Globalization.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.Pipes.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Linq.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Http.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Ping.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Requests.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Security.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.Sockets.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ObjectModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Reflection.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Resources.Reader.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Resources.Writer.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Claims.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.Principal.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Security.SecureString.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Text.Encoding.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.Thread.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Threading.Timer.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\BarcodeStandard.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\stdole.dll
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.egresos.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.finalizar_venta.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Form1.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.impresion.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.impresion_lavado.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Ingreso_lavado.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.lavado.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.clientes.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.liquidar_encargado.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.mensualidades.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Properties.Resources.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.Salida.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\Usuario\Downloads\parqueadero\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\netstandard.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.AppContext.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Collections.Concurrent.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Collections.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Collections.NonGeneric.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Collections.Specialized.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ComponentModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ComponentModel.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Console.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Data.Common.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Contracts.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Debug.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Process.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tools.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tracing.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Drawing.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Dynamic.Runtime.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Globalization.Calendars.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Globalization.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Globalization.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.Compression.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.IsolatedStorage.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.Pipes.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Linq.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Linq.Expressions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Linq.Parallel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Linq.Queryable.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Http.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.NameResolution.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.NetworkInformation.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Ping.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Requests.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Security.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.Sockets.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.Client.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ObjectModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Reflection.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Reflection.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Reflection.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Resources.Reader.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Resources.ResourceManager.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Resources.Writer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Handles.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Numerics.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Claims.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.Principal.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Security.SecureString.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Text.RegularExpressions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.Overlapped.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.Thread.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.ThreadPool.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Threading.Timer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.ValueTuple.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.ReaderWriter.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.XDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.XmlDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.XmlSerializer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\BarcodeStandard.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\System.Drawing.Common.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\ShockwaveFlashObjects.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\stdole.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Agg_usuarios.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Detallesdeventa.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.egresos.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.finalizar_venta.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Form1.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.impresion.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.impresion_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Impresion_mensualidad.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Ingreso_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.clientes.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.liquidar_encargado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.mensualidades.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.pagos_por_cliente.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Properties.Resources.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.Salida.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\parqueadero\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+E:\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+E:\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+E:\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+E:\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+E:\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+E:\PARQUEDERO\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\netstandard.dll
+E:\PARQUEDERO\colores\bin\Debug\System.AppContext.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Collections.Concurrent.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Collections.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Collections.NonGeneric.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Collections.Specialized.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ComponentModel.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ComponentModel.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Console.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Data.Common.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Contracts.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Debug.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Process.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tools.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tracing.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Drawing.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Dynamic.Runtime.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Globalization.Calendars.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Globalization.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Globalization.Extensions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.Compression.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.IsolatedStorage.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.Pipes.dll
+E:\PARQUEDERO\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Linq.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Linq.Expressions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Linq.Parallel.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Linq.Queryable.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Http.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.NameResolution.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.NetworkInformation.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Ping.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Requests.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Security.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.Sockets.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.Client.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ObjectModel.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Reflection.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Reflection.Extensions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Reflection.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Resources.Reader.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Resources.ResourceManager.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Resources.Writer.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Extensions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Handles.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Numerics.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Claims.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.Principal.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Security.SecureString.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Text.RegularExpressions.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.Overlapped.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.Thread.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.ThreadPool.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Threading.Timer.dll
+E:\PARQUEDERO\colores\bin\Debug\System.ValueTuple.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.ReaderWriter.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.XDocument.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.XmlDocument.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.XmlSerializer.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\PARQUEDERO\colores\bin\Debug\BarcodeStandard.dll
+E:\PARQUEDERO\colores\bin\Debug\System.Drawing.Common.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PARQUEDERO\colores\bin\Debug\ShockwaveFlashObjects.dll
+E:\PARQUEDERO\colores\bin\Debug\Google.Protobuf.dll
+E:\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PARQUEDERO\colores\bin\Debug\stdole.dll
+E:\PARQUEDERO\colores\bin\Debug\MySql.Data.xml
+E:\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+E:\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+E:\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+E:\PARQUEDERO\colores\obj\Debug\colores.Agg_usuarios.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Detallesdeventa.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.egresos.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.finalizar_venta.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Form1.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.impresion.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.impresion_lavado.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Impresion_mensualidad.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Ingreso_lavado.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.lavado.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.clientes.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.liquidar_encargado.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.mensualidades.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.pagos_por_cliente.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Properties.Resources.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.Salida.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+E:\PARQUEDERO\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+E:\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+E:\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+E:\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+E:\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+E:\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+E:\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+E:\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\netstandard.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.AppContext.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Collections.Concurrent.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Collections.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Collections.NonGeneric.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Collections.Specialized.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ComponentModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ComponentModel.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Console.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Data.Common.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Contracts.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Debug.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Process.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tools.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Diagnostics.Tracing.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Drawing.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Dynamic.Runtime.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Globalization.Calendars.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Globalization.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Globalization.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.Compression.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.IsolatedStorage.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.Pipes.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Linq.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Linq.Expressions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Linq.Parallel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Linq.Queryable.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Http.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.NameResolution.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.NetworkInformation.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Ping.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Requests.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Security.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.Sockets.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.Client.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Net.WebSockets.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ObjectModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Reflection.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Reflection.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Reflection.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Resources.Reader.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Resources.ResourceManager.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Resources.Writer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Handles.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Numerics.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Claims.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.Principal.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Security.SecureString.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Text.RegularExpressions.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.Overlapped.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.Thread.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.ThreadPool.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Threading.Timer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.ValueTuple.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.ReaderWriter.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.XDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.XmlDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.XmlSerializer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\BarcodeStandard.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\System.Drawing.Common.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\ShockwaveFlashObjects.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\stdole.dll
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Agg_usuarios.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Detallesdeventa.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.egresos.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Form1.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.impresion.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.impresion_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Impresion_mensualidad.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Ingreso_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.clientes.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.liquidar_encargado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.mensualidades.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.pagos_por_cliente.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Properties.Resources.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.Salida.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+D:\UNIVERSIDAD\PROGRAMACION AVANZADA\PROGRAMACION C#\PARQUEDERO\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\netstandard.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.AppContext.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Collections.Concurrent.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Collections.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Collections.NonGeneric.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Collections.Specialized.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ComponentModel.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ComponentModel.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Console.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Data.Common.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.Contracts.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.Debug.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.Process.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.Tools.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Diagnostics.Tracing.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Drawing.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Dynamic.Runtime.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Globalization.Calendars.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Globalization.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Globalization.Extensions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.Compression.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.FileSystem.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.IsolatedStorage.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.Pipes.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Linq.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Linq.Expressions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Linq.Parallel.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Linq.Queryable.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Http.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.NameResolution.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.NetworkInformation.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Ping.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Requests.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Security.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.Sockets.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.WebSockets.Client.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Net.WebSockets.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ObjectModel.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Reflection.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Reflection.Extensions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Reflection.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Resources.Reader.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Resources.ResourceManager.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Resources.Writer.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Extensions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Handles.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.InteropServices.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Numerics.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Claims.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.Principal.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Security.SecureString.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Text.Encoding.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Text.RegularExpressions.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.Overlapped.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.Tasks.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.Thread.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.ThreadPool.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Threading.Timer.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.ValueTuple.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.ReaderWriter.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.XDocument.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.XmlDocument.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.XmlSerializer.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.XPath.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\BarcodeStandard.dll
+C:\PARQUEDERO COMPLETO\colores\bin\Debug\System.Drawing.Common.dll
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.egresos.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Form1.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_lavado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Ingreso_lavado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.lavado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.clientes.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.liquidar_encargado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.mensualidades.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Properties.Resources.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Salida.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_empleado.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Detalles_de_pagos_empleados.resources
+C:\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Vehiculos_pendientes.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\BarcodeStandard.dll
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.AssemblyReference.cache
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.ResolveComReference.cache
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_empleado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.egresos.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Form1.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_lavado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.impresion_salida_parqueadero.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Ingreso_lavado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.lavado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.clientes.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.liquidar_encargado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.mensualidades.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Properties.Resources.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Detalles_de_pagos_empleados.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Salida.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.vehiculos_parqueadero.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.Vehiculos_pendientes.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\colores.ver_ingreso_lavado.resources
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.GenerateResource.cache
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CoreCompileInputs.cache
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Lavadero y parqueadero las vegas.csproj.CopyComplete
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\PC-86232\Downloads\PARQUEDERO COMPLETO\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb

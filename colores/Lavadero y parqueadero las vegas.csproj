@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7C0DE0C1-689A-4EB1-B493-C7331C73B64B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>colores</RootNamespace>
+    <AssemblyName>Parqueadero-Santa maria del Sol</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Usuario\Desktop\Instalador\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>PARQUEADERO LAS VEGAS</ProductName>
+    <PublisherName>JHON HEILER-3234960276</PublisherName>
+    <SuiteName>PARQUEADERO LAS VEGAS</SuiteName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>15</ApplicationRevision>
+    <ApplicationVersion>1.1.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>parqueadero1_opt-ConvertImage.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3D57CD2C4FB5133E46DD7777311BE2F6719F0E3E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>colores_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>colores.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeStandard, Version=2.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarcodeLib.2.2.1\lib\netstandard2.0\BarcodeStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.4.5.1\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Codigo\Abono_deudas.cs" />
+    <Compile Include="Codigo\Agg_cliente.cs" />
+    <Compile Include="Codigo\Borrar_pagos.cs" />
+    <Compile Include="Codigo\Ingreso_pendientes.cs" />
+    <Compile Include="Codigo\Pagos_lavadores.cs" />
+    <Compile Include="Codigo\VerificarEmpleado.cs" />
+    <Compile Include="Recibos\impresion_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibos\impresion_empleado.Designer.cs">
+      <DependentUpon>impresion_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Agg_usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Agg_usuarios.Designer.cs">
+      <DependentUpon>Agg_usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\borraringreso.cs" />
+    <Compile Include="Codigo\borrar_ingreso_lavado.cs" />
+    <Compile Include="Codigo\borrar_temporal.cs" />
+    <Compile Include="Codigo\buscar_nombre_cliente.cs" />
+    <Compile Include="Codigo\buscar_placa_cedula.cs" />
+    <Compile Include="Codigo\conexion.cs" />
+    <Compile Include="Crreports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crreports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vista\Detallesdeventa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Detallesdeventa.Designer.cs">
+      <DependentUpon>Detallesdeventa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DsReports.cs">
+      <DependentUpon>DsReports.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DsReports.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsReports.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\editar_cliente.cs" />
+    <Compile Include="Vista\egresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\egresos.Designer.cs">
+      <DependentUpon>egresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\eliminar_cliente.cs" />
+    <Compile Include="Codigo\flitro_pagos_realizados.cs" />
+    <Compile Include="Vista\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\gestordeingreso.cs" />
+    <Compile Include="Codigo\Gestordesalida.cs" />
+    <Compile Include="Codigo\gestordetalledeventa.cs" />
+    <Compile Include="Recibos\impresion-entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibos\impresion-entrada.Designer.cs">
+      <DependentUpon>impresion-entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recibos\impresion_lavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibos\impresion_lavado.Designer.cs">
+      <DependentUpon>impresion_lavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recibos\Impresion_mensualidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibos\Impresion_mensualidad.Designer.cs">
+      <DependentUpon>Impresion_mensualidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recibos\impresion_salida_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibos\impresion_salida_parqueadero.Designer.cs">
+      <DependentUpon>impresion_salida_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\Ingresoprestamos .cs" />
+    <Compile Include="Codigo\ingresoventas.cs" />
+    <Compile Include="Vista\Ingreso_lavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Ingreso_lavado.Designer.cs">
+      <DependentUpon>Ingreso_lavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\ingreso_ventas_lavador.cs" />
+    <Compile Include="Codigo\liquidacion_encargado.cs" />
+    <Compile Include="Vista\liquidar_encargado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\liquidar_encargado.Designer.cs">
+      <DependentUpon>liquidar_encargado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\registrar_ingreso_lavado.cs" />
+    <Compile Include="Codigo\ventas_por_lavador.cs" />
+    <Compile Include="Vista\lavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\lavado.Designer.cs">
+      <DependentUpon>lavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\clientes.Designer.cs">
+      <DependentUpon>clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\mensualidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\mensualidades.Designer.cs">
+      <DependentUpon>mensualidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\Numerodeventa.cs" />
+    <Compile Include="Vista\pagos_por_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\pagos_por_cliente.Designer.cs">
+      <DependentUpon>pagos_por_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Parqueadero_ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Parqueadero_ingreso.Designer.cs">
+      <DependentUpon>Parqueadero_ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\preciolavada.cs" />
+    <Compile Include="Codigo\precioporhora.cs" />
+    <Compile Include="Codigo\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Codigo\Registrar.cs" />
+    <Compile Include="Codigo\registrar_usuario.cs" />
+    <Compile Include="Vista\Detalles_de_pagos_empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Detalles_de_pagos_empleados.Designer.cs">
+      <DependentUpon>Detalles_de_pagos_empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Salida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Salida.Designer.cs">
+      <DependentUpon>Salida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\total_de_egresos.cs" />
+    <Compile Include="Codigo\total_de_ventas_detallada.cs" />
+    <Compile Include="Vista\vehiculos_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\vehiculos_parqueadero.Designer.cs">
+      <DependentUpon>vehiculos_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\verificarplaca.cs" />
+    <Compile Include="Codigo\verificar_cedula.cs" />
+    <Compile Include="Codigo\verificar_cliente.cs" />
+    <Compile Include="Codigo\verificar_placa_lavado.cs" />
+    <Compile Include="Codigo\verificar_usuario.cs" />
+    <Compile Include="Codigo\ver_carros_en_lavado.cs" />
+    <Compile Include="Vista\Vehiculos_pendientes .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Vehiculos_pendientes .Designer.cs">
+      <DependentUpon>Vehiculos_pendientes .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\ver_ingreso_lavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\ver_ingreso_lavado.Designer.cs">
+      <DependentUpon>ver_ingreso_lavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codigo\ver_tabla_ingreso.cs" />
+    <EmbeddedResource Include="Recibos\impresion_empleado.resx">
+      <DependentUpon>impresion_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Agg_usuarios.resx">
+      <DependentUpon>Agg_usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crreports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crreports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Detallesdeventa.resx">
+      <DependentUpon>Detallesdeventa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\egresos.resx">
+      <DependentUpon>egresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recibos\impresion-entrada.resx">
+      <DependentUpon>impresion-entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recibos\impresion_lavado.resx">
+      <DependentUpon>impresion_lavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recibos\Impresion_mensualidad.resx">
+      <DependentUpon>Impresion_mensualidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recibos\impresion_salida_parqueadero.resx">
+      <DependentUpon>impresion_salida_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Ingreso_lavado.resx">
+      <DependentUpon>Ingreso_lavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\lavado.resx">
+      <DependentUpon>lavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\clientes.resx">
+      <DependentUpon>clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\liquidar_encargado.resx">
+      <DependentUpon>liquidar_encargado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\mensualidades.resx">
+      <DependentUpon>mensualidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\pagos_por_cliente.resx">
+      <DependentUpon>pagos_por_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Parqueadero_ingreso.resx">
+      <DependentUpon>Parqueadero_ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vista\Detalles_de_pagos_empleados.resx">
+      <DependentUpon>Detalles_de_pagos_empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Salida.resx">
+      <DependentUpon>Salida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\vehiculos_parqueadero.resx">
+      <DependentUpon>vehiculos_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Vehiculos_pendientes .resx">
+      <DependentUpon>Vehiculos_pendientes .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\ver_ingreso_lavado.resx">
+      <DependentUpon>ver_ingreso_lavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DsReports.xsc">
+      <DependentUpon>DsReports.xsd</DependentUpon>
+    </None>
+    <None Include="DsReports.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsReports.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DsReports.xss">
+      <DependentUpon>DsReports.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parqueadero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="parqueadero1_opt-ConvertImage.ico" />
+    <None Include="Resources\WhatsApp Image 2021-08-14 at 11.43.02 AM.jpeg" />
+    <None Include="Resources\pago-en-efectivo.png" />
+    <None Include="Resources\WhatsApp Image 2021-08-04 at 11.41.56 AM.jpeg" />
+    <None Include="Resources\WhatsApp Image 2021-08-04 at 11_opt %281%29.jpg" />
+    <None Include="Resources\WhatsApp Image 2021-08-04 at 11_opt.jpg" />
+    <None Include="Resources\rrrrrrrrrrrrrrrrrr.png" />
+    <None Include="Resources\88888888888888.png" />
+    <None Include="Resources\222222222222222.png" />
+    <None Include="Resources\1222.png" />
+    <None Include="Resources\download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

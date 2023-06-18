@@ -1,0 +1,442 @@
+c:\users\estefania\source\repos\colores\colores\bin\Debug\MySql.Data.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\Google.Protobuf.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\MySql.Data.xml
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.csprojResolveAssemblyReference.cache
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.Form1.resources
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.Properties.Resources.resources
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.csproj.GenerateResource.Cache
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.csproj.CoreCompileInputs.cache
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.finalizar_venta.resources
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.Salida.resources
+c:\users\estefania\source\repos\colores\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\netstandard.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.AppContext.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Collections.Concurrent.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Collections.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Collections.NonGeneric.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Collections.Specialized.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ComponentModel.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ComponentModel.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Console.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Data.Common.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.Contracts.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.Debug.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.Process.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.Tools.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Diagnostics.Tracing.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Drawing.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Dynamic.Runtime.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Globalization.Calendars.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Globalization.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Globalization.Extensions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.Compression.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.FileSystem.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.IsolatedStorage.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.Pipes.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Linq.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Linq.Expressions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Linq.Parallel.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Linq.Queryable.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Http.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.NameResolution.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.NetworkInformation.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Ping.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Requests.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Security.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.Sockets.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.WebSockets.Client.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Net.WebSockets.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ObjectModel.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Reflection.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Reflection.Extensions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Reflection.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Resources.Reader.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Resources.ResourceManager.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Resources.Writer.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Extensions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Handles.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.InteropServices.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Numerics.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Claims.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.Principal.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Security.SecureString.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Text.Encoding.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Text.RegularExpressions.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.Overlapped.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.Tasks.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.Thread.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.ThreadPool.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Threading.Timer.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.ValueTuple.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.ReaderWriter.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.XDocument.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.XmlDocument.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.XmlSerializer.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.XPath.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\BarcodeStandard.dll
+c:\users\estefania\source\repos\colores\colores\bin\Debug\System.Drawing.Common.dll
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.impresion.resources
+c:\users\estefania\source\repos\colores\colores\obj\Debug\colores.lavado.resources
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\FlashControlV71.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\stdole.dll
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.clientes.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.mensualidades.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\colores.impresion_lavado.resources
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\Parqueadero- Los Colores.exe.config
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\Parqueadero- Los Colores.exe.manifest
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\Parqueadero- Los Colores.application
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\Parqueadero- Los Colores.exe
+C:\Users\Estefania\source\repos\colores\colores\bin\Debug\Parqueadero- Los Colores.pdb
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\Parqueadero- Los Colores.exe.config
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\Parqueadero- Los Colores.exe.manifest
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\Parqueadero- Los Colores.application
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\Parqueadero- Los Colores.exe
+C:\Users\Estefania\source\repos\colores\colores\obj\Debug\Parqueadero- Los Colores.pdb
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.csprojAssemblyReference.cache
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\Parqueadero- Los Colores.exe.config
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.finalizar_venta.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Form1.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.impresion.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.impresion_lavado.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.lavado.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.clientes.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.mensualidades.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Properties.Resources.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.Salida.resources
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.csproj.GenerateResource.cache
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\Parqueadero- Los Colores.exe
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\Parqueadero- Los Colores.pdb
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Parqueadero- Los Colores.exe.config
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Parqueadero- Los Colores.exe.manifest
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Parqueadero- Los Colores.application
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Parqueadero- Los Colores.exe
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Parqueadero- Los Colores.pdb
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\netstandard.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.AppContext.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Collections.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ComponentModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Console.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Data.Common.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Globalization.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.Compression.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.Pipes.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Linq.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Http.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Ping.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Requests.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Security.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.Sockets.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ObjectModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Reflection.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Resources.Reader.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Resources.Writer.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Claims.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.Principal.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Security.SecureString.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Text.Encoding.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.Thread.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Threading.Timer.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.ValueTuple.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.XPath.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\BarcodeStandard.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\FlashControlV71.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\System.Drawing.Common.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\Google.Protobuf.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\stdole.dll
+C:\Users\Cristian cano\Desktop\colores\colores\bin\Debug\MySql.Data.xml
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.csproj.CoreCompileInputs.cache
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\Parqueadero- Los Colores.exe.manifest
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\Parqueadero- Los Colores.application
+C:\Users\Cristian cano\Desktop\colores\colores\obj\Debug\colores.csproj.CopyComplete
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\netstandard.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.AppContext.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Collections.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ComponentModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Console.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Data.Common.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Globalization.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.Compression.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.Pipes.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Linq.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Http.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Ping.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Requests.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Security.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.Sockets.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ObjectModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Reflection.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Resources.Reader.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Resources.Writer.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Claims.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.Principal.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Security.SecureString.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Text.Encoding.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.Thread.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Threading.Timer.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.ValueTuple.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.XPath.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\BarcodeStandard.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\FlashControlV71.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\System.Drawing.Common.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\Google.Protobuf.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\stdole.dll
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\bin\Debug\MySql.Data.xml
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.csprojAssemblyReference.cache
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.config
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Agg_usuarios.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Detallesdeventa.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.finalizar_venta.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Form1.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.impresion.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.impresion_lavado.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Impresion_mensualidad.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.lavado.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.clientes.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.mensualidades.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.pagos_por_cliente.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Parqueadero_ingreso.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Properties.Resources.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.Salida.resources
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.csproj.GenerateResource.cache
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.csproj.CoreCompileInputs.cache
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe.manifest
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.application
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.csproj.CopyComplete
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.exe
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\Parqueadero-Santa maria del Sol.pdb
+C:\Users\Cristian cano\Desktop\Proyectos\colores\colores\obj\Debug\colores.vehiculos_parqueadero.resources
